@@ -1,7 +1,7 @@
 <template>
     <div>
         <b-jumbotron text-variant="white"
-                     header="BEP20 Token Generator"
+                     header="BEP20 Token Creator"
                      class="mb-0 wiretap-gradient"
                      fluid>
             <template #lead>

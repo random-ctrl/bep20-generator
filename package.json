@@ -1,5 +1,5 @@
 {
-  "title": "BEP20 Token Generator",
+  "title": "BEP20 Token Creator",
   "name": "bep20-generator",
   "version": "1.0.0",
   "description": "Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.",
