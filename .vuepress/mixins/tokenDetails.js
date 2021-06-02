@@ -18,7 +18,7 @@ export default {
           removeCopyright: false,
           originalPrice: 0,
           price: 0,
-          gas: 1330639,
+          gas: 133063,
         },
         {
           name: 'SimpleBEP20',
@@ -36,7 +36,7 @@ export default {
           removeCopyright: false,
           originalPrice: 0.5,
           price: 0.15,
-          gas: 1333276,
+          gas: 133327,
         },
         {
           name: 'StandardBEP20',
@@ -54,7 +54,7 @@ export default {
           removeCopyright: true,
           originalPrice: 1.5,
           price: 0.25,
-          gas: 1260139,
+          gas: 126013,
         },
         {
           name: 'BurnableBEP20',
@@ -72,7 +72,7 @@ export default {
           removeCopyright: true,
           originalPrice: 3.5,
           price: 0.45,
-          gas: 1444650,
+          gas: 144465,
         },
         {
           name: 'MintableBEP20',
@@ -90,7 +90,7 @@ export default {
           removeCopyright: true,
           originalPrice: 3.5,
           price: 0.45,
-          gas: 1524151,
+          gas: 152415,
         },
         {
           name: 'CommonBEP20',
@@ -108,7 +108,7 @@ export default {
           removeCopyright: true,
           originalPrice: 4.5,
           price: .6,
-          gas: 1708581,
+          gas: 170858,
         },
         {
           name: 'UnlimitedBEP20',
@@ -126,7 +126,7 @@ export default {
           removeCopyright: true,
           originalPrice: 5.5,
           price: .75,
-          gas: 1637163,
+          gas: 163716,
         },
         {
           name: 'AmazingBEP20',
@@ -144,7 +144,7 @@ export default {
           removeCopyright: true,
           originalPrice: 6.5,
           price: 1,
-          gas: 2254686,
+          gas: 225468,
         },
       ],
     };
