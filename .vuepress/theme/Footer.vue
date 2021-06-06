@@ -39,7 +39,7 @@
                         <small>
                             created by
                             <b-link class="text-warning" href="https://bep20.github.io/" target="_blank">
-                                bep20
+                                bep20generator@gmail.com
                             </b-link>
                         </small>
                     </b-list-group-item>
